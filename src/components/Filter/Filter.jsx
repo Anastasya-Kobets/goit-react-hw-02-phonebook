@@ -12,3 +12,6 @@ Filter.propTypes = {
   onFilterChange: PropTypes.func.isRequired,
   value: PropTypes.string.isRequired
 };
+
+
+
