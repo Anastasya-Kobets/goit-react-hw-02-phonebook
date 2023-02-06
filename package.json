@@ -2,7 +2,7 @@
   "name": "react-homework-template",
   "version": "0.1.0",
   "private": true,
-  "homepage": "git@github.com:Anastasya-Kobets/goit-react-hw-02-phonebook.git",
+  "homepage": "http://git@github.com:Anastasya-Kobets/goit-react-hw-02-phonebook.git",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.3",
     "@testing-library/react": "^12.1.4",
@@ -43,5 +43,20 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "description": "This project was created with [Create React App](https://github.com/facebook/create-react-app). To get acquainted and configure additional features [refer to documentation](https://facebook.github.io/create-react-app/docs/getting-started).",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Anastasya-Kobets/goit-react-hw-02-phonebook.git"
+  },
+  "keywords": [
+    "An624422."
+  ],
+  "author": "Anastasya <anastasyakobets@ukr.net>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anastasya-Kobets/goit-react-hw-02-phonebook/issues"
   }
 }
